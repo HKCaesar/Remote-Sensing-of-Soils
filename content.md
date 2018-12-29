@@ -43,7 +43,7 @@
   * [致谢](ps/thanks.md)
   * [后记](no_end/postscript.md)
 
-作者：ixiaoyi
-链接：https://www.jianshu.com/p/f2cc70a73a90
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+作者：qqzhang
+链接：https://www.jianshu.com/u/699896bd6367
+來源：简书。
+著作权归作者所有，任何形式的转载都请联系作者获得授权并注
